@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
 
-function LoginForm() {
+function LoginForm({ onLogin }) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const navigate = useNavigate();
@@ -15,6 +15,7 @@ function LoginForm() {
     }))
       .then(response => {
         localStorage.setItem('token', response.data.access_token);
+        onLogin();
         navigate('/');
       })
       .catch(error => {

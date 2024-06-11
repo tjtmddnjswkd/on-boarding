@@ -6,6 +6,24 @@ function PostDetail() {
   const { id } = useParams();
   const [post, setPost] = useState(null);
   const navigate = useNavigate();
+  const token = localStorage.getItem('token');
+  const [userId, setUserId] = useState(null);
+
+  useEffect(() => {
+    if (token) {
+      axios.get('http://127.0.0.1:8000/users/me', {
+        headers: {
+          Authorization: `Bearer ${token}`
+        }
+      })
+        .then(response => {
+          setUserId(response.data.id);
+        })
+        .catch(error => {
+          console.error("There was an error fetching the user!", error);
+        });
+    }
+  }, [token]);
 
   useEffect(() => {
     axios.get(`http://127.0.0.1:8000/posts/${id}`)
@@ -18,7 +36,10 @@ function PostDetail() {
   }, [id]);
 
   const handleDelete = () => {
-    const token = localStorage.getItem('token');
+    if (post.owner.id !== userId) {
+      alert("본인 글이 아니면 삭제가 불가능합니다.");
+      return;
+    }
     axios.delete(`http://127.0.0.1:8000/posts/${id}`, {
       headers: {
         Authorization: `Bearer ${token}`
@@ -38,8 +59,13 @@ function PostDetail() {
     <div>
       <h1>{post.title}</h1>
       <p>{post.content}</p>
-      <Link to={`/edit/${post.id}`}>Edit</Link>
-      <button onClick={handleDelete}>Delete</button>
+      <p>by {post.owner.username} on {new Date(post.created_at).toLocaleString()}</p>
+      {post.owner.id === userId && (
+        <>
+          <Link to={`/edit/${post.id}`}>Edit</Link>
+          <button onClick={handleDelete}>Delete</button>
+        </>
+      )}
     </div>
   );
 }

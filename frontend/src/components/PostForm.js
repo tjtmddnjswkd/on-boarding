@@ -7,6 +7,8 @@ function PostForm() {
   const [title, setTitle] = useState('');
   const [content, setContent] = useState('');
   const navigate = useNavigate();
+  const token = localStorage.getItem('token');
+  const [userId, setUserId] = useState(null);
 
   useEffect(() => {
     if (id) {
@@ -21,10 +23,25 @@ function PostForm() {
     }
   }, [id]);
 
+  useEffect(() => {
+    if (token) {
+      axios.get('http://127.0.0.1:8000/users/me', {
+        headers: {
+          Authorization: `Bearer ${token}`
+        }
+      })
+        .then(response => {
+          setUserId(response.data.id);
+        })
+        .catch(error => {
+          console.error("There was an error fetching the user!", error);
+        });
+    }
+  }, [token]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const data = { title, content };
-    const token = localStorage.getItem('token');
     const headers = {
       Authorization: `Bearer ${token}`
     };

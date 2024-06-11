@@ -18,11 +18,10 @@ function PostList() {
   return (
     <div>
       <h2>Posts</h2>
-      <Link to="/new">Create New Post</Link>
       <ul>
         {posts.map(post => (
           <li key={post.id}>
-            <Link to={`/posts/${post.id}`}>{post.title}</Link>
+            <Link to={`/posts/${post.id}`}>{post.title}</Link> by {post.owner.username} on {new Date(post.created_at).toLocaleString()}
           </li>
         ))}
       </ul>
