@@ -1,13 +1,16 @@
 from fastapi import Depends, FastAPI, HTTPException, status
 from sqlalchemy.orm import Session
-import crud, models, schemas
-from database import SessionLocal, engine, get_db
+from database import engine, get_db
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from jose import JWTError, jwt
 from passlib.context import CryptContext
 from datetime import datetime, timedelta
 from typing import List
 from fastapi.middleware.cors import CORSMiddleware
+
+import crud
+import models
+import schemas
 
 
 # Secret key to encode/decode JWT tokens
