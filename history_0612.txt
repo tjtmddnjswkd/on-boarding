@@ -1,0 +1,1927 @@
+    1  ls
+    2  ls
+    3  ls
+    4  ssh
+    5  ssh 117.17.189.31@tmddnjs3467 -p 29152
+    6  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+    7  pip3 install --upgrade pip
+    8  pip3 install jupyter
+    9  jupyter notebook
+   10  ssh tmddnjs3467@117.17.189.31 -p 29152
+   11  ls
+   12  ls
+   13  ssh tmddnjs3467@117.17.189.31 -p 29152
+   14  docker exec -it seungwon /bin/bash
+   15  ssh tmddnjs3467@117.17.189.31 -p 29152
+   16  ssh 117.17.189.31@tmddnjs3467 -p 29152
+   17  ssh 117.17.189.31@tmddnjs3467 -p 29152
+   18  ssh 117.17.189.31@tmddnjs3467  -p 29152
+   19  ssh
+   20  ssh 117.17.189.31@tmddnjs3467 -p 29152
+   21  ls
+   22  cd Desktop
+   23  open
+   24  ~open
+   25  open
+   26  open -a
+   27  open --a
+   28  ssh tmddnjs3467@117.17.189.31 -p 29152
+   29  ls
+   30  ls
+   31  cd Desktop
+   32  ls
+   33  ls
+   34  ls
+   35  cd pytorch연습
+   36  ls
+   37  python exer1.py
+   38  ssh tmddnjs3467@117.17.189.31 -p 29152
+   39  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   40  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   41  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   42  /Users/seoseung-won/opt/anaconda3/bin/anaconda-project ; exit;
+   43  /Users/seoseung-won/opt/anaconda3/bin/anaconda-navigator ; exit;
+   44  jupyter notebook
+   45  ssh tmddnjs3467@117.17.189.31 -p 29152
+   46  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   47  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   48  ssh tmddnjs3467@117.17.189.31 -p 29152
+   49  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   50  ssh tmddnjs3467@117.17.189.31 -p 29152
+   51  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   52  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   53  /Users/seoseung-won/opt/anaconda3/bin/jupyter-console ; exit;
+   54  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   55  /Users/seoseung-won/opt/anaconda3/bin/jupyter-lab ; exit;
+   56  jupyter notebook
+   57  ssh tmddnjs3467@117.17.189.31 -p 29152
+   58  ls
+   59  ls
+   60  ssh tmddnjs3467@117.17.189.31 -p 29152
+   61  ssh tmddnjs3467@117.17.189.31 -p 29152
+   62  ssh tmddnjs3467@117.17.189.31 -p 29152
+   63  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   64  ssh tmddnjs3467@117.17.189.31 -p 29152
+   65  ssh tmddnjs3467@117.17.189.31 -p 29152
+   66  ssh tmddnjs3467@117.17.189.31 -p 29152
+   67  ssh tmddnjs3467@117.17.189.31 -p 29152
+   68  ssh tmddnjs3467@117.17.189.31 -p 29152
+   69  ssh tmddnjs3467@117.17.189.31 -p 29152
+   70  ssh tmddnjs3467@117.17.189.31 -p 29152
+   71  ssh tmddnjs3467@117.17.189.31 -p 29152
+   72  ssh tmddnjs3467@117.17.189.31 -p 29152
+   73  ls
+   74  ls
+   75  /Users/seoseung-won/opt/anaconda3/bin/jupyter-lab ; exit;
+   76  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+   77  /Users/seoseung-won/opt/anaconda3/bin/jupyter-console ; exit;
+   78  jupyter notebook
+   79  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   80  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   81  ssh tmddnjs3467@117.17.189.31 -p 29152
+   82  ssh tmddnjs3467@117.17.189.31 -p 29152
+   83  jupyter notebook
+   84  ssh tmddnjs3467@117.17.189.31 -p 29152
+   85  ssh tmddnjs3467@117.17.189.31 -p 29152
+   86  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+   87  /Users/seoseung-won/opt/anaconda3/bin/jupyter-console ; exit;
+   88  jupyter notebook
+   89  ssh tmddnjs3467@117.17.189.31 -p 29152
+   90  ssh tmddnjs3467@117.17.189.31 -p 29152
+   91  ssh tmddnjs3467@117.17.189.32 -p 29152
+   92  ssh tmddnjs3467@117.17.189.32 -p 29152
+   93  ssh tmddnjs3467@117.17.189.32 -p 29152
+   94  pytho
+   95  n
+   96  python
+   97  python
+   98  pip install torch
+   99  ssh tmddnjs3467@117.17.189.32 -p 29152
+  100  python
+  101  spyder
+  102  ssh tmddnjs3467@117.17.189.32 -p 29152
+  103  jupyter notebook
+  104  ssh tmddnjs3467@117.17.189.31 -p 29152
+  105  ssh tmddnjs3467@117.17.189.32 -p 29152
+  106  ssh tmddnjs3467@117.17.189.31 -p 29152
+  107  ssh tmddnjs3467@117.17.189.32 -p 29152
+  108  ssh tmddnjs3467@117.17.189.32 -p 29152
+  109  ssh tmddnjs3467@117.17.189.32 -p 29152
+  110  ssh tmddnjs3467@117.17.189.32 -p 29152
+  111  ssh tmddnjs3467@117.17.189.33 -p 29152
+  112  ssh jiin0021@117.17.189.33 -p 29152
+  113  ssh jiin9@117.17.189.33 -p 29152
+  114  ssh jiin9@117.17.189.33 -p 29152
+  115  ssh tmddnjs3467@117.17.189.32 -p 29152
+  116  ssh tmddnjs3467@117.17.189.32 -p 29152
+  117  ssh tmddnjs3467@117.17.189.32 -p 29152
+  118  ssh tmddnjs3467@117.17.189.32 -p 2152
+  119  ssh tmddnjs3467@117.17.189.31 -p 29152
+  120  ssh tmddnjs3467@117.17.189.32 -p 29152
+  121  ssh tmddnjs3467@117.17.189.32 -p 29152
+  122  ssh tmddnjs3467@117.17.189.32 -p 29152
+  123  ssh tmddnjs3467@117.17.189.32 -p 29152
+  124  ssh tmddnjs3467@117.17.189.322 -p 29152
+  125  ssh tmddnjs3467@117.17.189.322 -p 29152
+  126  ssh tmddnjs3467@117.17.189.32 -p 29152
+  127  ssh tmddnjs3467@117.17.189.33 -p 29152
+  128  ssh tmddnjs3467@117.17.189.34 -p 29152
+  129  ssh tmddnjs3467@117.17.189.35 -p 29152
+  130  ssh tmddnjs3467@117.17.189.32 -p 29152
+  131  ssh tmddnjs3467@117.17.189.32 -p 29152
+  132  ssh tmddnjs3467@117.17.189.33 -p 29152
+  133  ssh tmddnjs3467@117.17.189.34 -p 29152
+  134  ssh tmddnjs3467@117.17.189.35 -p 29152
+  135  ssh tmddnjs3467@117.17.189.32 -p 29152
+  136  ssh tmddnjs3467@117.17.189.33 -p 29152
+  137  ssh tmddnjs3467@117.17.189.34 -p 29152
+  138  ssh tmddnjs3467@117.17.189.33 -p 29152
+  139  ssh tmddnjs3467@117.17.189.35 -p 29152
+  140  ssh tmddnjs3467@117.17.189.35 -p 29152
+  141  ssh tmddnjs3467@117.17.189.34 -p 29152
+  142  ssh tmddnjs3467@117.17.189.33 -p 29152
+  143  jupyter notebook
+  144  ssh tmddnjs3467@117.17.189.33 -p 29152
+  145  ssh tmddnjs3467@117.17.189.32 -p 29152
+  146  ssh tmddnjs3467@117.17.189.34 -p 29152
+  147  ssh tmddnjs3467@117.17.189.35 -p 29152
+  148  ssh tmddnjs3467@117.17.189.35 -p 29152
+  149  ssh tmddnjs3467@117.17.189.33 -p 29152
+  150  ssh tmddnjs3467@117.17.189.35 -p 29152
+  151  ssh tmddnjs3467@117.17.189.35 -p 29152
+  152  ssh tmddnjs3467@117.17.189.33 -p 29152
+  153  ssh tmddnjs3467@117.17.189.33 -p 29152
+  154  ssh tmddnjs3467@117.17.189.34 -p 29152
+  155  ssh tmddnjs3467@117.17.189.35 -p 29152
+  156  ssh tmddnjs3467@117.17.189.35 -p 29152
+  157  ssh tmddnjs3467@117.17.189.33 -p 29152
+  158  ssh tmddnjs3467@117.17.189.33 -p 29152
+  159  ssh tmddnjs3467@117.17.189.33 -p 29152
+  160  ssh tmddnjs3467@117.17.189.33 -p 29152
+  161  ssh tmddnjs3467@117.17.189.34 -p 29152
+  162  ssh tmddnjs3467@117.17.189.35 -p 29152
+  163  ssh tmddnjs3467@117.17.189.33 -p 29152
+  164  ssh tmddnjs3467@117.17.189.34 -p 29152
+  165  ssh tmddnjs3467@117.17.189.35 -p 29152
+  166  ssh tmddnjs3467@117.17.189.32 -p 29152
+  167  ssh tmddnjs3467@117.17.189.33 -p 29152
+  168  ssh tmddnjs3467@117.17.189.34 -p 29152
+  169  ssh tmddnjs3467@117.17.189.35 -p 29152
+  170  ssh tmddnjs3467@117.17.189.33 -p 29152
+  171  ssh tmddnjs3467@117.17.189.35 -p 29152
+  172  ssh tmddnjs3467@117.17.189.35 -p 29152
+  173  ssh tmddnjs3467@117.17.189.33 -p 29152
+  174  ssh tmddnjs3467@117.17.189.33 -p 29152
+  175  ssh tmddnjs3467@117.17.189.33 -p 29152
+  176  ssh tmddnjs3467@117.17.189.33 -p 29152
+  177  ssh tmddnjs3467@117.17.189.33 -p 29152
+  178  ssh tmddnjs3467@117.17.189.35 -p 29152
+  179  ssh tmddnjs3467@117.17.189.33 -p 29152
+  180  ssh tmddnjs3467@117.17.189.33 -p 29152
+  181  ssh tmddnjs3467@117.17.189.35 -p 29152
+  182  ssh tmddnjs3467@117.17.189.33 -p 29152
+  183  ssh tmddnjs3467@117.17.189.35 -p 29152
+  184  ssh tmddnjs3467@117.17.189.35 -p 29152
+  185  ssh tmddnjs3467@117.17.189.35 -p 29152
+  186  ssh tmddnjs3467@117.17.189.32 -p 29152
+  187  ssh tmddnjs3467@117.17.189.33 -p 29152
+  188  ssh tmddnjs3467@117.17.189.35 -p 29152
+  189  ssh tmddnjs3467@117.17.189.35 -p 29152
+  190  ssh tmddnjs3467@117.17.189.33 -p 29152
+  191  ssh tmddnjs3467@117.17.189.35 -p 29152
+  192  ssh tmddnjs3467@117.17.189.35 -p 29152
+  193  ssh tmddnjs3467@117.17.189.33 -p 29152
+  194  ssh tmddnjs3467@117.17.189.35 -p 29152
+  195  ssh tmddnjs3467@117.17.189.33 -p 29152
+  196  ssh tmddnjs3467@117.17.189.33 -p 29152
+  197  ssh tmddnjs3467@117.17.189.33 -p 29152
+  198  ssh tmddnjs3467@117.17.189.35 -p 29152
+  199  ssh tmddnjs3467@117.17.189.33 -p 29152
+  200  ssh tmddnjs3467@117.17.189.35 -p 29152
+  201  ssh tmddnjs3467@117.17.189.35 -p 29152
+  202  ssh tmddnjs3467@117.17.189.35 -p 29152
+  203  ssh tmddnjs3467@117.17.189.33 -p 29152
+  204  ssh tmddnjs3467@117.17.189.35 -p 29152
+  205  ssh tmddnjs3467@117.17.189.35 -p 29152
+  206  ssh tmddnjs3467@117.17.189.33 -p 29152
+  207  ssh tmddnjs3467@117.17.189.35 -p 29152
+  208  ssh tmddnjs3467@117.17.189.35 -p 29152
+  209  ssh tmddnjs3467@117.17.189.35 -p 29152
+  210  ssh tmddnjs3467@117.17.189.35 -p 29152
+  211  ssh tmddnjs3467@117.17.189.35 -p 29152
+  212  ssh tmddnjs3467@117.17.189.35 -p 29152
+  213  ssh tmddnjs3467@117.17.189.33 -p 29152
+  214  ssh tmddnjs3467@117.17.189.35 -p 29152
+  215  ssh tmddnjs3467@117.17.189.35 -p 29152
+  216  ssh tmddnjs3467@117.17.189.35 -p 29152
+  217  ssh tmddnjs3467@117.17.189.35 -p 29152
+  218  python
+  219  pip install pyarrow
+  220  python
+  221  ssh tmddnjs3467@117.17.189.35 -p 29152
+  222  ssh tmddnjs3467@117.17.189.35 -p 29152
+  223  ssh tmddnjs3467@117.17.189.35 -p 29152
+  224  ssh tmddnjs3467@117.17.189.33 -p 29152
+  225  ssh tmddnjs3467@117.17.189.35 -p 29152
+  226  ssh tmddnjs3467@117.17.189.33 -p 29152
+  227  ssh tmddnjs3467@117.17.189.35 -p 29152
+  228  ssh tmddnjs3467@117.17.189.35 -p 29152
+  229  ssh tmddnjs3467@117.17.189.35 -p 29152
+  230  ssh tmddnjs3467@117.17.189.35 -p 29152
+  231  ssh tmddnjs3467@117.17.189.35 -p 29152
+  232  ssh tmddnjs3467@117.17.189.35 -p 29152
+  233  ssh tmddnjs3467@117.17.189.35 -p 29152
+  234  ssh tmddnjs3467@117.17.189.33 -p 29152
+  235  ssh tmddnjs3467@117.17.189.35 -p 29152
+  236  ssh tmddnjs3467@117.17.189.33 -p 29152
+  237  ssh tmddnjs3467@117.17.189.35 -p 29152
+  238  ssh tmddnjs3467@117.17.189.33 -p 29152
+  239  ssh tmddnjs3467@117.17.189.35 -p 29152
+  240  brew install cask
+  241  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"\n
+  242  brew doctor
+  243  brew
+  244  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"\n
+  245  gcc
+  246  brew doctor
+  247  ssh tmddnjs3467@117.17.189.35 -p 29152
+  248  ssh tmddnjs3467@117.17.189.33 -p 29152
+  249  ssh tmddnjs3467@117.17.189.35 -p 29152
+  250  ssh tmddnjs3467@117.17.189.35 -p 29152
+  251  ssh tmddnjs3467@117.17.189.32 -p 29152
+  252  ssh tmddnjs3467@117.17.189.33 -p 29152
+  253  ssh tmddnjs3467@117.17.189.35 -p 29152
+  254  ssh tmddnjs3467@117.17.189.33 -p 29152
+  255  ssh tmddnjs3467@117.17.189.33 -p 29152
+  256  ssh tmddnjs3467@117.17.189.35 -p 29152
+  257  ssh tmddnjs3467@117.17.189.33 -p 29152
+  258  ssh tmddnjs3467@117.17.189.33 -p 29152
+  259  ssh tmddnjs3467@117.17.189.35 -p 29152
+  260  ssh tmddnjs3467@117.17.189.33 -p 29152
+  261  ssh tmddnjs3467@117.17.189.33 -p 29152
+  262  ssh tmddnjs3467@117.17.189.33 -p 29152
+  263  ssh tmddnjs3467@117.17.189.33 -p 29152
+  264  ssh tmddnjs3467@117.17.189.33 -p 29152
+  265  ssh tmddnjs3467@117.17.189.33 -p 29152
+  266  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\n
+  267  brew install zsh
+  268  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+  269  brew doctor
+  270  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git\n
+  271  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc\n
+  272  ssh tmddnjs3467@117.17.189.35 -p 29152
+  273  C-Server
+  274  C
+  275  ssh tmddnjs3467@17.117.189.33 -p 29152
+  276  C-Server
+  277  ssh tmddnjs3467@117.17.189.33 -p 29152
+  278  ssh tmddnjs3467@17.117.189.33 -p 29152
+  279  ssh tmddnjs3467@117.17.189.33
+  280  -p 29152
+  281  ssh tmddnjs3467@117.17.189.33 -p 29152
+  282  sudo nano ~/.ssh/config
+  283  ssh C-Server
+  284  opne ~/.zshrc
+  285  open ~/.zshrc
+  286  source ~/.zshrc
+  287  open ~/.zshrc
+  288  source ~/.zshrc
+  289  open ~/.zshrc
+  290  ~./
+  291  /
+  292  vi ~/.zshrc
+  293  open ~/.zshrc
+  294  vi ~/.oh-my-zsh/themes/agnoster.zsh-theme
+  295  open ~/.oh-my-zsh/themes/agnoster.zsh-theme
+  296  source ~/.zshrc
+  297  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  298  open ~/.zshrc
+  299  source ~/.zshrc
+  300  ssh C-Server
+  301  ls
+  302  cd
+  303  cd pytorch연습
+  304  ㅊㅇ ..
+  305  cd ..
+  306  cd
+  307  hahaha
+  308  ssh E-Server
+  309  ssh C-Server
+  310  ssh 
+  311  ssh C-Server
+  312  ssh 
+  313  ssh C-Server
+  314  ssh E-Server
+  315  ssh D-Server
+  316  ssh C-Server
+  317  ssh tmddnjs3467@117.17.189.33 -p 29152
+  318  ssh C-Server
+  319  ssh D-Server
+  320  ssh C-Server
+  321  ssh E-Server
+  322  ssh C-Server
+  323  ssh D-Server
+  324  ssh C-Server
+  325  ssh D-Server
+  326  ssh E-Server
+  327  ssh C-Server
+  328  ssh C
+  329  ssh C-Server
+  330  ssh E-Server
+  331  ssh C-Server
+  332  ssh E-Server
+  333  ssh C-Server
+  334  ssh E-Server
+  335  ssh C-Server
+  336  ssh E-Server
+  337  ssh C-Server
+  338  ssh E-Server
+  339  ssh broadcasthost
+  340  ssh B-Server
+  341  ssh D-Server
+  342  ssh C-Server
+  343  ssh E-Server
+  344  ssh C-Server
+  345  ssh E-Server
+  346  ssh C-Server
+  347  ssh E-Server
+  348  ssh C-Server
+  349  ssh E-Server
+  350  ssh C-Server
+  351  ssh E-Server
+  352  ssh C-Server
+  353  ssh E-Server
+  354  ssh C-Server
+  355  ssh D-Server
+  356  ssh E-Server
+  357  ssh C-Server
+  358  ssh D-Server
+  359  ssh broadcasthost
+  360  ssh B-Server
+  361  ssh C-Server
+  362  ssh E-Server
+  363  ssh D-Server
+  364  ssh C-Server
+  365  ssh E-Server
+  366  ssh D-Server
+  367  ssh E-Server
+  368  ssh C-Server
+  369  ssh E-Server
+  370  ssh C-Server
+  371  ssh D-Server
+  372  ssh E-Server
+  373  ssh C-Server
+  374  ssh D-Server
+  375  ssh C-Server
+  376  ssh D-Server
+  377  ssh E-Server
+  378  ssh C-Server
+  379  ssh D-Server
+  380  ssh C-Server
+  381  ssh D-Server
+  382  ssh E-Server
+  383  ssh C-Server
+  384  ssh broadcasthost
+  385  ssh B-Server
+  386  ssh broadcasthost
+  387  ssh B-Server
+  388  ssh C-Server
+  389  ssh B-Server
+  390  ssh C-Server
+  391  ssh B-Server
+  392  ssh broadcasthost
+  393  ssh B-Server
+  394  ssh E-Server
+  395  ssh B-Server
+  396  ssh E-Server
+  397  ssh D-Server
+  398  ssh E-Server
+  399  ssh broadcasthost
+  400  ssh B-Server
+  401  ssh C-Server
+  402  ssh B-Server
+  403  ssh C-Server
+  404  ssh B-Server
+  405  ssh C-Server
+  406  ssh E-Server
+  407  ssh B-Server
+  408  ssh E-Server
+  409  ssh C-Server
+  410  ssh B-Server
+  411  ssh D-Server
+  412  ssh broadcasthost
+  413  ssh B-
+  414  ssh B-Server
+  415  ssh C-Server
+  416  ssh B-Server
+  417  ssh C-Server
+  418  ssh B-Server
+  419  ssh A-Server
+  420  ssh D
+  421  ssh D-Server
+  422  ssh tmddnjs3467@117.17.189.33 -p 29152
+  423  ssh C-Server
+  424  ssh E-Server
+  425  ssh C-Server
+  426  ssh E-Server
+  427  ssh C-Server
+  428  ssh E-Server
+  429  ssh broadcasthost
+  430  ssh B-Server
+  431  ssh D-Server
+  432  ssh E-Server
+  433  ssh C-Server
+  434  ssh D-Server
+  435  ssh E-Server
+  436  ssh D-Server
+  437  ssh C-Server
+  438  ssh E-Server
+  439  ssh D-Server
+  440  ssh E-Server
+  441  ssh C-Server
+  442  ssh E-Server
+  443  ssh D-Server
+  444  ssh C-Server
+  445  cd eclipse-workspace
+  446  exit
+  447  ssh E-Server
+  448  ssh C-Server
+  449  ssh D-Server
+  450  ssh E-Server
+  451  ssh C-Server
+  452  ssh E-Server
+  453  ssh C-Server
+  454  ssh D-Server
+  455  ssh E-Server
+  456  ssh D-Server
+  457  ssh C-Server
+  458  ssh E-Server
+  459  ssh D-Server
+  460  ssh C-Server
+  461  ssh E-Server
+  462  ssh broadcasthost
+  463  ssh B-Server
+  464  ssh C-Server
+  465  ssh E-Server
+  466  ssh C-Server
+  467  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+  468  /Users/seoseung-won/opt/anaconda3/bin/spyder3 ; exit;
+  469  ipython
+  470  python
+  471  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+  472  ju
+  473  jupyter notebook
+  474  jupyter notebok
+  475  jupyter notebook
+  476  jupyter
+  477  jupyternotebook
+  478  jupyter notebook
+  479  ls
+  480  conda jupyter notebook
+  481  python jupyter notebook
+  482  terminal. jupyter notebook
+  483  pip install jupyter
+  484  pip3 install jupyter
+  485  jupyter notebook
+  486  conda install jupyter
+  487  pip3 install jupyter
+  488  pip3 install --upgrade pip
+  489  --user
+  490  pip3 install --upgrade pip --user
+  491  pip3 install --upgrade pip
+  492  pip3 install jupyter
+  493  jupyter notebook
+  494  /Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  495  /Users/seoseung-won/opt/anaconda3/bin/spyder3 ; exit;
+  496  ssh E-Server
+  497  jupyter notebook
+  498  Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  499  zupyter notebook
+  500  jupyter notebook
+  501  /Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  502  python
+  503  /Users/seoseung-won/opt/anaconda3/bin/spyder3 ; exit;
+  504  /Users/seoseung-won/opt/anaconda3/bin/spyder ; exit;
+  505  Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+  506  Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  507  ssh C-Server
+  508  jupyter notebook
+  509  pip install jupyter
+  510  pip3 install jypyter
+  511  -m pip install --upgrade pip
+  512  python3 -m pip install --upgrade pip
+  513  pip3 install jupyter
+  514  jupyter notebook
+  515  ipython
+  516  python
+  517  jupyter
+  518  python -m pip install jupyter
+  519  python3 -m pip install jupyter
+  520  jupyter notebook
+  521  python jupyter notebook
+  522  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+  523  /Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  524  /Users/seoseung-won/opt/anaconda3/bin/spyder3 ; exit;
+  525  ssh C-Server
+  526  ssh D-Server
+  527  ssh E-Server
+  528  /Users/seoseung-won/opt/anaconda3/bin/spyder3 ; exit;
+  529  ssh E-Server
+  530  ssh D-Server
+  531  ssh E-Server
+  532  ssh D-Server
+  533  ssh C-Server
+  534  ssh D-Server
+  535  ssh E-Server
+  536  ssh C-Server
+  537  ssh E-Server
+  538  ssh D-Server
+  539  ssh broadcasthost
+  540  ssh B-Server
+  541  ssh C-Server
+  542  ssh E-Server
+  543  ssh D-Server
+  544  ssh C-Server
+  545  ssh E-Server
+  546  ssh D-Server
+  547  ssh C-Server
+  548  ssh broadcasthost
+  549  ssh B-Server
+  550  ssh D-Server
+  551  ssh E-Server
+  552  ssh C-Server
+  553  ssh D-Server
+  554  ssh C-Server
+  555  ssh tmddnjs3467@117.17.189.33 -p 29152
+  556  ssh swseo@117.17.189.33 -p 29152
+  557  ssh tmddnjs3467@117.17.189.34 -p 29152
+  558  ssh tmddnjs3467@117.17.189.32 -p 29152
+  559  ssh tmddnjs3467@117.17.189.33 -p 29152
+  560  ssh-keygen -R 117.17.189.33
+  561  cd /
+  562  cd Users/
+  563  ls
+  564  cd seoseung-won
+  565  ls
+  566  cd .ssh
+  567  ls
+  568  cd known_host
+  569  cd known_hosts
+  570  ls
+  571  cd known_hosts
+  572  ssh-keygen -R 117.17.189.33
+  573  ls
+  574  vim known_hosts
+  575  ssh-keygen -R 117.17.189.33
+  576  ssh tmddnjs3467@117.17.189.33 -p 29152
+  577  ssh D-Server
+  578  ssh E-Server
+  579  ssh tmddnjs3467@117.17.189.36 -p 29152
+  580  ssh tmddnjs3467@117.17.189.37 -p 29152
+  581  F-Server
+  582  ssh F-Server
+  583  ssh C-Server
+  584  ssh D-Server
+  585  ssh E-Server
+  586  ssh F-Server
+  587  ssh D-Server
+  588  ssh C-Server
+  589  ssh F-Server
+  590  ssh C-Server
+  591  ssh F-Server
+  592  ssh C-Server
+  593  ssh F-Server
+  594  ssh C-Server
+  595  ssh D-Server
+  596  ssh E-Server
+  597  ssh C-Server
+  598  ssh D-Server
+  599  ssh F-Server
+  600  ssh D-Server
+  601  ssh C-Server
+  602  ssh E-Server
+  603  ssh D-Server
+  604  ssh F-Server
+  605  ssh D-Server
+  606  ssh C-Server
+  607  ssh E-Server
+  608  ssh F-Server
+  609  /Users/seoseung-won/opt/anaconda3/pkgs/notebook-6.0.3-py38_0/bin/jupyter-notebook ; exit;
+  610  jupyter notebook
+  611  /Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  612  ssh F-Server
+  613  ssh C-Server
+  614  ssh F-Server
+  615  ls
+  616  cd Downloads
+  617  ls
+  618  cd web
+  619  ls
+  620  tmux
+  621  ls
+  622  conda create -n web-test python=3.7
+  623  python -m conda create web-test python=3.7
+  624  . /Users/seoseung-won/opt/anaconda3/bin/activate && conda activate /Users/seoseung-won/opt/anaconda3/envs/web-test; 
+  625  ls
+  626  cd Do
+  627  cd Downloads
+  628  ls
+  629  cd web
+  630  ls
+  631  python app.py
+  632  pip install flask
+  633  python app.py
+  634  ls
+  635  vim Dockerfile
+  636  pip freeze
+  637  conda list
+  638  docker build -t flask-sample:latest .
+  639  pip install docker
+  640  docker build -t flask-sample:latest .
+  641  docker
+  642  ls
+  643  vim Dockerfile
+  644  vim app.py
+  645  ssh F-Server
+  646  . /Users/seoseung-won/opt/anaconda3/bin/activate && conda activate /Users/seoseung-won/opt/anaconda3/envs/web-test; 
+  647  ls
+  648  cd Do
+  649  cd Downloads
+  650  ls
+  651  cd web
+  652  ls
+  653  python app.py
+  654  ls
+  655  cd ..
+  656  ls
+  657  cd time-series-anomaly-detection-master
+  658  ls
+  659  cd Deployment
+  660  ls
+  661  python app.py
+  662  pip install numpy
+  663  python app.py
+  664  pip install pandas
+  665  python app.py
+  666  pip install torch
+  667  python app.py
+  668  pip install pymysql
+  669  python app.py
+  670  brew install mysql
+  671  mysql -u root -p
+  672  mysql.server start
+  673  mysql_secure_installation
+  674  mysql -u root -p
+  675  ssh F-Server
+  676  ssh tmddnjs3467@117.17.189.38 -p 29152
+  677  ssh tmddnjs3467@117.17.189.45 -p 29152
+  678  ssh G-Server
+  679  ssh A-Server
+  680  . /Users/seoseung-won/opt/anaconda3/bin/activate && conda activate /Users/seoseung-won/opt/anaconda3/envs/web-test; 
+  681  mysql -u device -p --port 33006 --host 115.94.179.188
+  682  Users/seoseung-won/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  683  ssh H-Server
+  684  ssh B-Server
+  685  mysql -u device -p --port 33006 --host 115.94.179.188
+  686  mysql -u device -p --port 8306 --host 115.94.179.188
+  687  ssh H-Server
+  688  ssh-keygen -t rsa -b 4096 -C "seosw@ds.seoultech.ac.kr"
+  689  ssh A-Server
+  690  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.31
+  691  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.32
+  692  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.33
+  693  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.34
+  694  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.35
+  695  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.36
+  696  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.37
+  697  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.45
+  698  ssh A-Server
+  699  ssh C-Server
+  700  ssh H-Server
+  701  ssh daintlab@117.17.189.37 -p 29152
+  702  ssh F-Server
+  703  ssh daintlab@117.17.189.37 -p 29152
+  704  ssh F-Server
+  705  ssh daintlab@117.17.189.37 -p 29152
+  706  ssh F-Server
+  707  ssh H-Server
+  708  ssh G-Server
+  709  ssh D-Server
+  710  ssh C-Server
+  711  ssh E-Server
+  712  ssh F-Server
+  713  ssh H-Server
+  714  ssh D-Server
+  715  ssh H-Server
+  716  ssh G-Server
+  717  ssh H-Server
+  718  ssh C-Server
+  719  ssh G-Server
+  720  ssh F-Server
+  721  ssh H-Server
+  722  ssh B-Server
+  723  ssh H-Server
+  724  ssh D-Server
+  725  ssh H-Server
+  726  ssh E-Server
+  727  ssh B-Server
+  728  ssh H-Server
+  729  ssh E-Server
+  730  ssh D-Server
+  731  ssh G-Server
+  732  exit
+  733  ssh H-Server
+  734  ssh C-Server
+  735  ssh D-Server
+  736  ssh E-Server
+  737  ssh G-Server
+  738  ssh F-Server
+  739  ssh C-Server
+  740  ssh E-Server
+  741  ssh C-Server
+  742  ssh E-Server
+  743  ssh G-Server
+  744  ssh D-Server
+  745  ssh F-Server
+  746  ssh G-Server
+  747  ssh H-Server
+  748  ssh E-Server
+  749  ssh C-Server
+  750  ssh F-Server
+  751  ssh H
+  752  ssh H-Server
+  753  ssh E-Server
+  754  ssh C-Server
+  755  ssh E-Server
+  756  ssh H-Server
+  757  ssh C-Server
+  758  ssh D-Server
+  759  ssh E-Server
+  760  ssh G-Server
+  761  ssh E-Server
+  762  ssh C-Server
+  763  ssh H-Server
+  764  ssh G-Server
+  765  ssh F-Server
+  766  ssh E-Server
+  767  ssh G-Server
+  768  ssh E-Server
+  769  ssh G-Server
+  770  ssh H-Server
+  771  ssh G-Server
+  772  ssh H-Server
+  773  ssh G
+  774  ssh G-Server
+  775  ssh H-Server
+  776  ssh D-Server
+  777  ssh H-Server
+  778  ssh G-Server
+  779  ssh H-Server
+  780  ssh G-Server
+  781  exit
+  782  ssh E-Server
+  783  ssh D-Server
+  784  ssh E-Server
+  785  ssh H-Server
+  786  ssh G-Server
+  787  ssh E-Server
+  788  ssh F-Server
+  789  ssh H-Server
+  790  ssh G-Server
+  791  ssh F-Server
+  792  ssh G-Server
+  793  ssh F-Server
+  794  ssh D-Server
+  795  ssh G-Server
+  796  ssh D-Server
+  797  ssh F-Server
+  798  ssh G-Server
+  799  ssh H-Server
+  800  ssh E-Server
+  801  ssh F-Server
+  802  ssh D-Server
+  803  ssh H-Server
+  804  ssh G-Server
+  805  ssh F-Server
+  806  ssh G-Server
+  807  ssh F-Server
+  808  ssh G-Server
+  809  ssh F-Server
+  810  ssh G-Server
+  811  ssh E-Server
+  812  ssh F-Server
+  813  ssh E-Server
+  814  ssh G-Server
+  815  ssh F-Server
+  816  ssh E-Server
+  817  ssh G-Server
+  818  ssh F-Server
+  819  ssh G-Server
+  820  ssh F-Server
+  821  ssh H-Server
+  822  ssh G-Server
+  823  ssh F-Server
+  824  ssh G-Server
+  825  ssh F-Server
+  826  ssh G-Server
+  827  ssh F-Server
+  828  ssh E-Server
+  829  ssh G-Server
+  830  ssh F-Server
+  831  ssh E-Server
+  832  ssh G-Server
+  833  ssh F-Server
+  834  ssh E-Server
+  835  ssh F-Server
+  836  ssh E-Server
+  837  ssh G-Server
+  838  ssh F-Server
+  839  ssh G-Server
+  840  ssh F-Server
+  841  ssh H-Server
+  842  ssh F-Server
+  843  ssh G-Server
+  844  ssh E-Server
+  845  ssh H-Server
+  846  ssh F-Server
+  847  ssh D-Server
+  848  ssh F-Server
+  849  ssh G-Server
+  850  ssh F-Server
+  851  ssh H-Server
+  852  exit
+  853  ssh H-Server
+  854  ssh F-Server
+  855  ssh G-Server
+  856  ssh H-Server
+  857  ssh E-Server
+  858  ssh G-Server
+  859  ssh F-Server
+  860  ssh H-Server
+  861  ssh F-Server
+  862  ssh E-Server
+  863  ssh F-Server
+  864  ssh G-Server
+  865  ssh E-Server
+  866  ssh F-Server
+  867  ssh D-Server
+  868  ssh F-Server
+  869  ssh G-Server
+  870  ssh E-Server
+  871  ssh D-Server
+  872  ssh F-Server
+  873  ssh G-Server
+  874  ssh D-Server
+  875  ssh E
+  876  ssh E-
+  877  ssh E-Server
+  878  ssh F-Server
+  879  ssh D-Server
+  880  ssh G-Server
+  881  ssh E-Server
+  882  ssh G-Server
+  883  ssh F-Server
+  884  ssh G-Server
+  885  ssh F-Server
+  886  ssh G-Server
+  887  ssh D-Server
+  888  ssh H-Server
+  889  ssh E-Server
+  890  ssh F-Server
+  891  ssh D-Server
+  892  ssh E-Server
+  893  ssh F-Server
+  894  ssh D-Server
+  895  ssh H-Server
+  896  ssh F-Server
+  897  ssh H-Server
+  898  ssh F-Server
+  899  ssh G-Server
+  900  ssh C-Server
+  901  ssh D-Server
+  902  ssh E-Server
+  903  ssh C-Server
+  904  ssh G-Server
+  905  ssh F-Server
+  906  ssh E
+  907  ssh E-Server
+  908  ssh D-Server
+  909  ssh C-Server
+  910  ssh G-Server
+  911  ssh C-Server
+  912  ssh D-Server
+  913  ssh E-Server
+  914  ssh F-Server
+  915  ssh G-Server
+  916  ssh E-Server
+  917  ssh D-Server
+  918  ssh C-Server
+  919  ssh F-Server
+  920  ssh H-Server
+  921  ssh F-Server
+  922  ssh D-Server
+  923  ssh H-Server
+  924  ssh F-Server
+  925  ssh D-Server
+  926  ssh F-Server
+  927  ssh D-Server
+  928  ssh F-Server
+  929  ssh D-Server
+  930  ssh A-Server
+  931  cd .ssh
+  932  ls
+  933  vim known_hosts
+  934  ssh A-Server
+  935  ssh F-Server
+  936  ssh D-Server
+  937  ssh F-Server
+  938  ssh C-Server
+  939  ssh D-Server
+  940  ssh E-Server
+  941  ssh A-Server
+  942  ssh D-Server
+  943  ssh F-Server
+  944  ssh D-Server
+  945  mysql -u device -p --port 33006 --host 115.94.179.188
+  946  ssh device@115.94.179.188 -p 33006
+  947  ssh H-Server
+  948  ssh G-Server
+  949  ssh 
+  950  ssh F
+  951  ssh F-Server
+  952  ssh H-Server
+  953  ssh F-Server
+  954  ssh G-Server
+  955  ssh H-Server
+  956  ssh root@175.45.194.64
+  957  ssh root@175.45.194.110
+  958  ssh D-Server
+  959  ssh root@175.45.192.20
+  960  ssh root@175.45.192.19
+  961  ssh root@175.45.192.20
+  962  ssh root@175.45.192.19
+  963  ssh root@175.45.192.20
+  964  ssh root@175.45.192.19
+  965  ssh root@175.45.192.20
+  966  ssh artuna2
+  967  ssh root@175.45.192.20
+  968  ssh F-Server
+  969  ssh root@115.71.1.85 -p 50304 
+  970  ssh C-Server
+  971  ssh D-Server
+  972  ssh A-Server
+  973  ssh ixlab@117.17.189.31 -p 29152
+  974  ssh B-Server
+  975  ssh daintlab@117.17.189.33 -p 29152
+  976  ssh ixlab@117.17.189.32 -p 29152
+  977  ssh ixlab@117.17.189.33 -p 29152
+  978  ssh D-Server
+  979  ssh A-Server
+  980  ssh E-Server
+  981  ssh D-Server
+  982  ssh C-Server
+  983  ssh daintlab@117.17.189.33 -p 29152
+  984  ssh B-Server
+  985  ssh A
+  986  ssh A-Server
+  987  ssh D-Server
+  988  ssh C-Server
+  989  ssh D-Server
+  990  ssh E-Server
+  991  ssh C-Server
+  992  ssh D-Server
+  993  ssh H-Server
+  994  ssh E-Server
+  995  ssh daintlab@117.17.189.34 -p 29152
+  996  ssh D-Server
+  997  ssh gombumsoo@117.17.189.34 -p 29152
+  998  ssh D-Server
+  999  ssh daintlab@117.17.189.34 -p 29152
+ 1000  ssh daintlab@117.17.189.44 -p 29153
+ 1001  ssh daintlab@117.17.189.34 -p 29152
+ 1002  ssh C-Server
+ 1003  ssh gombumsoo@117.17.189.34 -p 29152
+ 1004  ssh daintlab@117.17.189.34 -p 29152
+ 1005  ssh seobyl@117.17.189.34 -p 29152
+ 1006  ssh D-Server
+ 1007  ssh daintlab@117.17.189.36 -p 29152
+ 1008  ssh daintlab@117.17.189.45 -p 29152
+ 1009  ls
+ 1010  ll
+ 1011  cd ..
+ 1012  ll
+ 1013  cd ..
+ 1014  ls
+ 1015  cd Applications
+ 1016  ls
+ 1017  cd /
+ 1018  cd /Applications
+ 1019  sudo Wireshark
+ 1020  sudo /Applications/Wireshark.app 
+ 1021  sudo
+ 1022  sudo /Applications/Wireshark.app 
+ 1023  sudo Wireshark.app 
+ 1024  sudo 
+ 1025  su -
+ 1026  sudo
+ 1027  sudo "\file path from hard drive to application.app/Contents/MacOs/application Wireshark\n"
+ 1028  sudo "\file path from hard drive to application.app/Contents/MacOs/application Wireshark.app"\n"\n\n
+ 1029  sudo "\file path from hard drive to application.app/Contents/MacOs/application Wireshark.app\n"\n\n
+ 1030  cd ~
+ 1031  sudo /Applications/Wireshark.app 
+ 1032  sudo
+ 1033  sudo /Applications/Wireshark.app 
+ 1034  cd ..
+ 1035  ls
+ 1036  cd ..
+ 1037  ls
+ 1038  cd Applications
+ 1039  ls
+ 1040  sudo Wireshark.app 
+ 1041  sudo
+ 1042  sudo /Applications/Wireshark.app 
+ 1043  dsenableroot
+ 1044  su -
+ 1045  exit
+ 1046  su -
+ 1047  exit
+ 1048  ssh G-Server
+ 1049  ssh F-Server
+ 1050  /Users/seoseung-won/Downloads/BrighticsStudio-v1.2-2021.09.06-1630918528-macos.sh; exit
+ 1051  ls
+ 1052  cd Downloads
+ 1053  ls
+ 1054  sh BrighticsStudio-v1.2-2021.09.06-1630918528-macos.sh 
+ 1055  cd brightics-studio
+ 1056  ls
+ 1057  sh start-brightics.sh
+ 1058  sh stop-brightics.sh
+ 1059  sh start-brightics.sh
+ 1060  sh stop-brightics.sh
+ 1061  /Users/seoseung-won/Downloads/brightics-studio/start-brightics.sh; exit
+ 1062  brew install nvm
+ 1063  nvm install 8.11.2
+ 1064  mkdir ~/.nvm
+ 1065  brew install nvm
+ 1066  brew reinstall nvm
+ 1067  mkdir ~/.nvm
+ 1068  export NVM_DIR="$HOME/.nvm"
+ 1069  [ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+ 1070  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+ 1071  nvm
+ 1072  nvm install 8.11.2
+ 1073  cd visual-analytics
+ 1074  npm install sqlite3
+ 1075  cd ..
+ 1076  sh start-brightics.sh
+ 1077  cd lib
+ 1078  ls
+ 1079  cd python_dl
+ 1080  ls
+ 1081  cd Sc
+ 1082  cd ..
+ 1083  ssh C-Server
+ 1084  exit
+ 1085  ssh B-Server
+ 1086  ssh A-Server
+ 1087  ssh H-Server
+ 1088  ssh daintlab@117.17.189.36 -p 29152
+ 1089  ssh D-Server
+ 1090  ssh E-Server
+ 1091  ssh H-Server
+ 1092  ssh A-Server
+ 1093  ssh B-Server
+ 1094  ssh ixlab@117.17.189.33 -p 29152
+ 1095  ssh C-Server
+ 1096  ssh B-Server
+ 1097  ssh H-Server
+ 1098  ssh C-Server
+ 1099  ssh H-Server
+ 1100  ssh F-Server
+ 1101  ssh H-Server
+ 1102  ssh F-Server
+ 1103  pustat
+ 1104  ssh F-Server
+ 1105  pustat
+ 1106  ssh H-Server
+ 1107  ssh F-Server
+ 1108  ssh G
+ 1109  ssh G-Server
+ 1110  ssh F-Server
+ 1111  ssh daintlab@117.17.189.34 -p 29152
+ 1112  ssh daintlab@117.17.189.35 -p 29152
+ 1113  ssh daintlab@117.17.189.37 -p 29152
+ 1114  ssh daintlab@117.17.189.45 -p 29152
+ 1115  ssh F-Server
+ 1116  ssh H-Server
+ 1117  ssh F-Server
+ 1118  ssh H-Server
+ 1119  ssh F-Server
+ 1120  ssh F
+ 1121  ssh F-Server
+ 1122  ssh H-Server
+ 1123  ssh F-Server
+ 1124  ssh G-Server
+ 1125  ssh F-Server
+ 1126  ssh G-Server
+ 1127  ssh D-Server
+ 1128  ssh G-Server
+ 1129  ssh H-Server
+ 1130  ssh G-Server
+ 1131  ssh H-Server
+ 1132  ssh G-Server
+ 1133  ssh F-Server
+ 1134  ssh D-Server
+ 1135  ssh E-Server
+ 1136  ssh G-Server
+ 1137  ssh H-Server
+ 1138  ssh C-Server
+ 1139  ssh daintlab@117.17.189.36 -p 29152
+ 1140  ssh F-Server
+ 1141  ssh H-Server
+ 1142  ssh daintlab@117.17.189.36 -p 29152
+ 1143  ssh F-Server
+ 1144  ssh H
+ 1145  ssh H-Server
+ 1146  ssh F-Server
+ 1147  ssh H-Server
+ 1148  ssh F-Server
+ 1149  ssh H-Server
+ 1150  ssh daintlab@117.17.189.37 -p 29152
+ 1151  ssh H-Server
+ 1152  ssh C-Server
+ 1153  ssh C
+ 1154  ssh C-Server
+ 1155  ssh D-Server
+ 1156  ssh E-Server
+ 1157  ssh daintlab@117.17.189.35 -p 29152
+ 1158  ssh E-Server
+ 1159  ssh C-Server
+ 1160  ssh D-Server
+ 1161  ssh F-Server
+ 1162  ssh D-Server
+ 1163  ssh A-Server
+ 1164  ssh H-Server
+ 1165  ssh A-Server
+ 1166  ssh B-Server
+ 1167  ssh daintlab@117.17.189.33 -p 29152
+ 1168  ssh H-Server
+ 1169  ssh E-Server
+ 1170  ssh F-Server
+ 1171  ssh G-Server
+ 1172  ssh H-Server
+ 1173  ssh E-Server
+ 1174  ssh D-Server
+ 1175  ssh C-Server
+ 1176  ssh A-Server
+ 1177  ssh B-Server
+ 1178  ssh problab@117.17.189.33 -p 29152
+ 1179  ssh daintlab@117.17.189.47 -p 29152
+ 1180  ssh H-Server
+ 1181  ssh daintlab@117.17.189.47 -p 29152
+ 1182  ssh F-Server
+ 1183  ssh daintlab@117.17.189.36 -p 29152
+ 1184  ssh I
+ 1185  ssh I-Server
+ 1186  ssh G-Server
+ 1187  ssh H-Server
+ 1188  ssh I-Server
+ 1189  ssh H-Server
+ 1190  ssh-copy-id -i ~/.ssh/id_rsa.pub -p 29152 tmddnjs3467@117.17.189.47
+ 1191  ssh I
+ 1192  ssh I-Server
+ 1193  ssh daintlab@117.17.189.47 -p 29152
+ 1194  ssh F-Server
+ 1195  ssh H-Server
+ 1196  ssh I-Server
+ 1197  ssh H-Server
+ 1198  ssh I-Server
+ 1199  ssh daintlab@117.17.189.19 -p 29152
+ 1200  ssh I-Server
+ 1201  ssh daintlab@117.17.189.19 -p 29152
+ 1202  ssh I-Server
+ 1203  ssh daintlab@117.17.189.19 -p 29152
+ 1204  ssh I-Server
+ 1205  ssh daintlab@117.17.189.19 -p 29152
+ 1206  ssh I-Server
+ 1207  ssh H-Server
+ 1208  ssh I-Server
+ 1209  ssh H-Server
+ 1210  ssh I-Server
+ 1211  ssh daintlab@117.17.189.19 -p 29152
+ 1212  ssh I-Server
+ 1213  ssh H-Server
+ 1214  ssh I-Server
+ 1215  ssh E-Server
+ 1216  ssh H-Server
+ 1217  ssh D-Server
+ 1218  ssh E-Server
+ 1219  ssh H-Server
+ 1220  ssh A-Server
+ 1221  ssh H-Server
+ 1222  ㄴ노 ㅗ-ㄴㄷㄱ
+ 1223  s
+ 1224  ssh H-Server
+ 1225  ssh H-
+ 1226  ssh H-Server
+ 1227  ssh D-Server
+ 1228  ssh H-Server
+ 1229  ssg H-Server
+ 1230  ssh H-Server
+ 1231  ssh C-Server
+ 1232  ssh D-Server
+ 1233  ssh C-Server
+ 1234  ssh E-Server
+ 1235  ssh I
+ 1236  ssh I-Server
+ 1237  ssh H-Server
+ 1238  ssh D-Server
+ 1239  ssh H-Server
+ 1240  ssh E-Server
+ 1241  ssh H-Server
+ 1242  ssh D
+ 1243  ssh D-Server
+ 1244  ssh H-Server
+ 1245  ssh I-Server
+ 1246  ssh F-Server
+ 1247  ssh I-Server
+ 1248  ssh H-Server
+ 1249  ssh I-Server
+ 1250  ssh H
+ 1251  ssh H-Server
+ 1252  ssh I-Server
+ 1253  ssh G-Server
+ 1254  ssh F-Server
+ 1255  ssh I
+ 1256  ssh I-Server
+ 1257  ssh D-Server
+ 1258  ssh I-Server
+ 1259  ssh D-Server
+ 1260  ssh I-Server
+ 1261  ssh D-Server
+ 1262  ssh H-Server
+ 1263  ssh daintlab@117.17.189.36 -p 29152
+ 1264  ssh H-Server
+ 1265  ssh D-Server
+ 1266  ssh H-Server
+ 1267  ssh E-Server
+ 1268  ssh D-Server
+ 1269  ssh F-Server
+ 1270  ssh G-Server
+ 1271  ssh C-Server
+ 1272  ssh I-Server
+ 1273  ssh A-Server
+ 1274  ssh B-Server
+ 1275  ssh tmddnjs3467@117.17.189.44 -p 29153
+ 1276  ssh I-Server
+ 1277  ssh jiin9@117.17.189.35 -p 29152
+ 1278  ssh I-Server
+ 1279  ssh C-Server
+ 1280  ssh D-Server
+ 1281  ssh C-Server
+ 1282  ssh D-Server
+ 1283  ssh E-Server
+ 1284  ssh C-Server
+ 1285  ssh E-Server
+ 1286  ssh D-Server
+ 1287  ssh D
+ 1288  ssh D-Server
+ 1289  ssh E-Server
+ 1290  ssh C-Server
+ 1291  ssh D-Server
+ 1292  ssh daintlab@117.17.189.33 -p 29152
+ 1293  ssh daintlab@117.17.189.34 -p 29152
+ 1294  ssh daintlab@117.17.189.33 -p 29152
+ 1295  ssh E-Server
+ 1296  ssh D-Server
+ 1297  ssh C-Server
+ 1298  ssh daintlab@117.17.189.33 -p 29152
+ 1299  ssh E-Server
+ 1300  ssh D-Server
+ 1301  ssh E-Server
+ 1302  ssh D-Server
+ 1303  ssh Innolab@117.17.189.31 -p 29152
+ 1304  ssh Innolab@117.17.189.32 -p 29152
+ 1305  ssh Innolab@117.17.189.33 -p 29152
+ 1306  cd .ssh/
+ 1307  ls
+ 1308  vi known_hosts
+ 1309  ssh D-Server
+ 1310  ssh E-Server
+ 1311  ssh D
+ 1312  ssh D-Server
+ 1313  ssh E-Server
+ 1314  ssh Innolab@117.17.189.33 -p 29152
+ 1315  ssh I-Server
+ 1316  ssh C-Server
+ 1317  ssh D-Server
+ 1318  ssh I
+ 1319  ssh E-Server
+ 1320  ssh I-Server
+ 1321  ssh E-Server
+ 1322  ssh D-Server
+ 1323  ssh I-Server
+ 1324  ssh E-Server
+ 1325  ssh D-Server
+ 1326  ssh E-Server
+ 1327  ssh I-Server
+ 1328  ssh D-Server
+ 1329  ssh E-Server
+ 1330  ssh B0
+ 1331  ssh B-Server
+ 1332  ssh D-Server
+ 1333  ssh E-Server
+ 1334  ssh D
+ 1335  ssh D-Server
+ 1336  ssh F-Server
+ 1337  ssh G
+ 1338  ssh G-Server
+ 1339  ssh I-Server
+ 1340  ssh D-Server
+ 1341  ssh I-Server\n: 1680963958:0;ssh I-Server
+ 1342  ssh G-Server
+ 1343  ssh I-Server
+ 1344  ssh F-Server
+ 1345  ssh G
+ 1346  ssh G-Server
+ 1347  ssh F-Server
+ 1348  ssh G-Server
+ 1349  ssh I-Server
+ 1350  ssh G-Server
+ 1351  ssh F-Server
+ 1352  ssh G-Server
+ 1353  ssh I-Server
+ 1354  ssh G-Server
+ 1355  ssh F-Server
+ 1356  ssh G-Server
+ 1357  ssh I
+ 1358  ssh I-Server
+ 1359  ssh H-Server
+ 1360  ssh E
+ 1361  ssh E-Server
+ 1362  ssh I-Server
+ 1363  ssh F-Server
+ 1364  ssh I-Server
+ 1365  ssh G-Server
+ 1366  ssh F-Server
+ 1367  ssh H-Server
+ 1368  ssh G
+ 1369  ssh G-Server
+ 1370  ssh F-Server
+ 1371  ssh I-Server
+ 1372  ssh F-Server
+ 1373  ssh daintlab@117.17.189.37 -p 29152
+ 1374  ssh F-Server
+ 1375  ssh H-Server
+ 1376  ssh I-Server
+ 1377  ssh G-Server
+ 1378  ssh H-Server
+ 1379  ssh daintlab@117.17.189.36 -p 29152
+ 1380  ssh I-Server
+ 1381  ssh G-Server
+ 1382  ssh F-Server
+ 1383  ssh H-Server
+ 1384  ssh G-Server
+ 1385  ssh F-Server
+ 1386  ssh H-Server
+ 1387  ssh G-Server
+ 1388  ssh I-Server
+ 1389  ssh H-Server
+ 1390  ssh G-Server
+ 1391  ssh H-Server
+ 1392  ssh G-Server
+ 1393  ssh I-Server
+ 1394  ssh H-Server
+ 1395  ssh F-Server
+ 1396  ssh I-Server
+ 1397  ssh G-Server
+ 1398  ssh I-Server
+ 1399  ssh G-Server
+ 1400  ssh I-Server
+ 1401  ssh G-Server
+ 1402  ssh H-Server
+ 1403  ssh F-Server
+ 1404  ssh G-Server
+ 1405  ssh I-Server
+ 1406  ssh G-Server
+ 1407  ssh I-Server
+ 1408  ssh G-Server
+ 1409  ssh I-Server
+ 1410  ssh G-Server
+ 1411  ssh I-Server
+ 1412  ssh D-Server
+ 1413  ssh E-Server
+ 1414  ssh D-Server
+ 1415  ssh E-Server
+ 1416  ssh C-Server
+ 1417  ssh F-Server
+ 1418  ssh I-Server
+ 1419  ssh tmddnjs3467@117.17.189.37 -p 29152
+ 1420  ssh I-Server
+ 1421  ssh G-Server
+ 1422  ssh F-Server
+ 1423  ssh I
+ 1424  ssh I-Server
+ 1425  ssh C-Server
+ 1426  ssh H-Server
+ 1427  ssh G-Server
+ 1428  ssh I-Server
+ 1429  ssh G-Server
+ 1430  ssh I-Server
+ 1431  ssh G-Server
+ 1432  ssh H-Server
+ 1433  ssh G-Server
+ 1434  ssh D-Server
+ 1435  ssh C-Server
+ 1436  ssh E-Server
+ 1437  ssh C-Server
+ 1438  ssh D-Server
+ 1439  ssh C-Server
+ 1440  ssh E-Server
+ 1441  ssh C-Server
+ 1442  ssh E-Server
+ 1443  ssh D-Server
+ 1444  ssh C-Server
+ 1445  ssh D-Server
+ 1446  ssh C-Server
+ 1447  ssh E-Server
+ 1448  ssh C-Server
+ 1449  ssh H-Server
+ 1450  ssh I-Server
+ 1451  ssh D-Server
+ 1452  ssh C-Server
+ 1453  ssh E
+ 1454  ssh E-Server
+ 1455  ssh C-Server
+ 1456  gpustat
+ 1457  ssh C-Server
+ 1458  ssh D-Server
+ 1459  ssh E-Server
+ 1460  ssh C-Server
+ 1461  ssh D-Server
+ 1462  ssh E-Server
+ 1463  ssh C-Server
+ 1464  ssh D-Server
+ 1465  ssh C-Server
+ 1466  ssh D-Server
+ 1467  ssh E-Server
+ 1468  ssh C-Server
+ 1469  ssh D-Server
+ 1470  ssh E-Server
+ 1471  ssh C-Server
+ 1472  ssh E-Server
+ 1473  gpustat
+ 1474  ssh C-Server
+ 1475  ssh E-Server
+ 1476  ssh D-Server
+ 1477  ssh C-Server
+ 1478  ssh E-Server
+ 1479  ssh D-Server
+ 1480  ssh C-Server
+ 1481  ssh D-Server
+ 1482  ssh E-Server
+ 1483  ssh seobyl@117.17.189.19 -p 29152
+ 1484  ssh seobyl@117.17.189.35 -p 29152
+ 1485  ssh daintlab@117.17.189.19 -p 29152
+ 1486  ssh seobyl@117.17.189.35 -p 29152
+ 1487  ssh seobyl@117.17.189.19 -p 29152
+ 1488  ssh seobyl@117.17.189.36 -p 29152
+ 1489  ssh H-Server
+ 1490  ssh C-Server
+ 1491  ssh seobyl@117.17.189.36 -p 29152
+ 1492  ssh G-Server
+ 1493  ssh F-Server
+ 1494  ssh D-Server
+ 1495  ssh I-Server
+ 1496  ssh seobyl@117.17.189.36 -p 29152
+ 1497  ssh H-Server
+ 1498  ssh seobyl@117.17.189.36 -p 29152
+ 1499  ssh C-Server
+ 1500  ssh H-Server
+ 1501  ssh C-Server
+ 1502  ssh D-Server
+ 1503  ssh E-Server
+ 1504  ssh F-Server
+ 1505  ssh G-Server
+ 1506  ssh E-Server
+ 1507  ssh I-Server
+ 1508  ssh H-Server
+ 1509  ssh D-Server
+ 1510  ssh E-Server
+ 1511  ssh C-Server
+ 1512  ssh F-Server
+ 1513  ssh G-Server
+ 1514  ssh C-Server
+ 1515  ssh F-Server
+ 1516  ssh E-Server
+ 1517  ssh D-Server
+ 1518  ssh C-Server
+ 1519  ssh D-Server
+ 1520  ssh C-Server
+ 1521  ssh E-Server
+ 1522  ssh D-Server
+ 1523  ssh E-Server
+ 1524  ssh D-Server
+ 1525  ssh C-Server
+ 1526  ssh D-Server
+ 1527  ssh E-Server
+ 1528  ssh C-Server
+ 1529  ssh H-Server
+ 1530  ssh C-Server
+ 1531  ssh D-Server
+ 1532  ssh E-Server
+ 1533  ssh D-Server
+ 1534  ssh C-Server
+ 1535  ssh H-Server
+ 1536  ssh F-Server
+ 1537  ssh D-Server
+ 1538  ssh C-Server
+ 1539  ssh H-Server
+ 1540  ssh F-Server
+ 1541  ssh I-Server
+ 1542  ssh G-Server
+ 1543  ssh F-Server
+ 1544  ssh G-Server
+ 1545  ssh F-Server
+ 1546  ssh I-Server
+ 1547  ssh F-Server
+ 1548  ssh G-Server
+ 1549  ssh I-Server
+ 1550  ssh G-Server
+ 1551  python
+ 1552  python3
+ 1553  ls
+ 1554  pwd
+ 1555  cd Desktop
+ 1556  ls
+ 1557  mkdir test
+ 1558  cd test
+ 1559  ssh I-Server
+ 1560  ssh G-Server
+ 1561  ssh I-Server
+ 1562  ssh F-Server
+ 1563  ssh H-Server
+ 1564  ssh F-Server
+ 1565  ssh I-Server
+ 1566  ssh G-Server
+ 1567  ssh H-Server
+ 1568  ssh H
+ 1569  ssh H-Server
+ 1570  ls
+ 1571  mkdir workspace
+ 1572  cd workspace
+ 1573  git
+ 1574  git config
+ 1575  git config --global
+ 1576  git --global config
+ 1577  git --global-config
+ 1578  git
+ 1579  git init on-boarding
+ 1580  cd on-boarding
+ 1581  ls
+ 1582  cd ..
+ 1583  python3 -m venv on-boarding
+ 1584  python3 -m venv board
+ 1585  mv on-boarding
+ 1586  mkdir on-boarding
+ 1587  mv crud.py ./on-boarding
+ 1588  mv main.py ./on-boarding
+ 1589  git init on-boarding
+ 1590  source board/bin/activate
+ 1591  cd on-boarding
+ 1592  ls
+ 1593  pip install fastapi
+ 1594  pip install --upgrade pip
+ 1595  pip install fastapi
+ 1596  pip install uvicorn
+ 1597  pip install sqlalchemy passlib bcrypt python-jose
+ 1598  uvicorn main:app --reload
+ 1599  ls
+ 1600  mkdir backend
+ 1601  mv crud.py backend
+ 1602  mv database.py backend
+ 1603  mv models.py backend
+ 1604  mv schemas.py backend
+ 1605  mv test.db backend
+ 1606  mv main.py backend
+ 1607  mkdir frontend
+ 1608  cd frontend
+ 1609  mkdir src
+ 1610  mkdir components
+ 1611  cd ..
+ 1612  npx create-react-app frontend
+ 1613  brew install node@20
+ 1614  brew install --update
+ 1615  brew update
+ 1616  brew install node
+ 1617  brew update\n
+ 1618  brew doctor
+ 1619  brew cleanup
+ 1620  brew doctor
+ 1621  sudo xcode-select --install
+ 1622  Software Update
+ 1623  brew update
+ 1624  sudo xcode-select --switch /Applications/Xcode.app
+ 1625  brew install --build-from-source node
+ 1626  brew update
+ 1627  brew install --build-from-source pkg-config
+ 1628  brew install gcc
+ 1629  brew install --build-from-source gcc
+ 1630  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"\n출처: https://bobr2.tistory.com/entry/맥북-BrewHomeBrew-설치삭제-Docker-삭제-가이드 [나만의공간:티스토리]
+ 1631  ls
+ 1632  cd backend
+ 1633  uvicorn main:app --reload
+ 1634  python3
+ 1635  pip install uvicorn
+ 1636  pip3 install uvicorn
+ 1637  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"\n출처: https://bobr2.tistory.com/entry/맥북-BrewHomeBrew-설치삭제-Docker-삭제-가이드 [나만의공간:티스토리]
+ 1638  rm -rf /usr/local/Homebrew
+ 1639  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"\n출처: https://bobr2.tistory.com/entry/맥북-BrewHomeBrew-설치삭제-Docker-삭제-가이드 [나만의공간:티스토리]
+ 1640  brew -V
+ 1641  brew
+ 1642  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"\n출처: https://bobr2.tistory.com/entry/맥북-BrewHomeBrew-설치삭제-Docker-삭제-가이드 [나만의공간:티스토리]
+ 1643  xcode-select --print-path 
+ 1644  sudo rm -rf /Library/Developer/CommandLineTools
+ 1645  xcode-select --install
+ 1646  python3
+ 1647  exit
+ 1648  python
+ 1649  python3
+ 1650  xcode-select --version
+ 1651  cat /Library/Developer/CommandLineTools/usr/bin/
+ 1652  python3
+ 1653  vim
+ 1654  git
+ 1655  xcode-select -p
+ 1656  sudo xcode-select -s /Library/Developer/CommandLineTools
+ 1657  python3
+ 1658  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1659* exit
+ 1660  brew -V
+ 1661  brew -v
+ 1662  tmux
+ 1663  brew install node
+ 1664* uvicorn
+ 1665* python3 -m venv board
+ 1666* ls
+ 1667* deactivate
+ 1668* source board/bin/activate
+ 1669* ls
+ 1670* uvicorn main:app --reload
+ 1671* pip install fastapi uvicorn sqlalchemy passlib bcrypt python-jose
+ 1672* uvicorn main:app --reload
+ 1673* ls
+ 1674* cd on-boarding
+ 1675* ls
+ 1676* cd backend
+ 1677* uvicorn main:app --reload
+ 1678* curl -X 'POST' \\n  'http://127.0.0.1:8000/users/' \\n  -H 'Content-Type: application/json' \\n  -d '{\n  "username": "testuser",\n  "password": "1234"\n}'
+ 1679* pip install bcrypt
+ 1680* curl -X 'POST' \\n  'http://127.0.0.1:8000/users/' \\n  -H 'Content-Type: application/json' \\n  -d '{\n  "username": "testuser",\n  "password": "1234"\n}'
+ 1681* uvicorn main:app --reload
+ 1682* curl -X 'POST' \\n  'http://127.0.0.1:8000/users/' \\n  -H 'Content-Type: application/json' \\n  -d '{\n  "username": "testuser",\n  "password": "1234"\n}'
+ 1683* curl -X 'POST' \\n  'http://127.0.0.1:8000/token' \\n  -H 'Content-Type: application/x-www-form-urlencoded' \\n  -d 'username=testuser&password=1234'
+ 1684* curl -X 'POST' \\n  'http://127.0.0.1:8000/posts/' \\n  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0dXNlciIsImV4cCI6MTcxODExMDYzMn0.LBVb6oPfl0IhKqz1EBP8w-nCVq4C2z5ICnvFJOd92kg' \\n  -H 'Content-Type: application/json' \\n  -d '{\n  "title": "Test Post",\n  "content": "This is a test post."\n}'
+ 1685* git push
+ 1686* git status
+ 1687* cd ..
+ 1688* ls
+ 1689* git status
+ 1690  npm
+ 1691* ls
+ 1692* cd ..
+ 1693* ls
+ 1694* npx create-react-app frontend
+ 1695* ls
+ 1696* cd temp
+ 1697* ls
+ 1698* mv -r components/ ../frontend
+ 1699* mv components/ ../frontend
+ 1700* mv src ../frontend
+ 1701* cd ..
+ 1702* ls
+ 1703* rm -r temp
+ 1704* cd frontend
+ 1705* npm install axios react-router-dom
+ 1706* cd backend
+ 1707* ls
+ 1708* uvicorn main:app --reload
+ 1709* source board/bin/activate
+ 1710* cd ..
+ 1711* source ../board/bin/activate
+ 1712* cd backend
+ 1713* uvicorn main:app --reload
+ 1714* npm start
+ 1715* pip install pre-commit
+ 1716* cd ..
+ 1717* pre-commit install
+ 1718* pre-commit run --all-files
+ 1719* pip install black flake8\n
+ 1720* cd .git/hooks/
+ 1721* ls
+ 1722* vim pre-commit
+ 1723* cd ..
+ 1724* pre-commit run --all-files
+ 1725* git status
+ 1726* git add ./
+ 1727* git status
+ 1728* git commit -m "feat: prototype boarding service"
+ 1729* git config --global user.email "tmddnjs3467@gmail.com"
+ 1730* git config --global user.name "swseo"
+ 1731* git commit -m "feat: prototype boarding service"
+ 1732* git push
+ 1733* git push on-boarding
+ 1734* git remote add origin https://github.com/tjtmddnjswkd/on-boarding.git
+ 1735* git push --set-upstream origin master
+ 1736* git push
+ 1737* git branch
+ 1738* git branch -m master
+ 1739* git push --set-upstream origin master
+ 1740* git status
+ 1741* git branch
+ 1742* git branch -m master
+ 1743* git branch
+ 1744* git checkout -b main\n
+ 1745* git push --set-upstream origin main\n
+ 1746* git remote add origin https://github.com/tjtmddnjswkd/on-boarding.git\n
+ 1747* git checkout -b main\n
+ 1748* git branch
+ 1749* git push --set-upstream origin main\n
+ 1750* git init 
+ 1751* git remote add origin https://github.com/tjtmddnjswkd/on-boarding.git\n
+ 1752* git status
+ 1753* git push --set-upstream origin main\n
+ 1754* echo "# My Project" > README.md\ngit add README.md\ngit commit -m "Initial commit"\n
+ 1755* git push --set-upstream origin main\n
+ 1756* rm -rf .git\n
+ 1757* git init
+ 1758* git remote add origin https://github.com/tjtmddnjswkd/on-boarding.git\n
+ 1759* echo "# My Project" > README.md\ngit add README.md\ngit commit -m "Initial commit"\n
+ 1760* git checkout -b main\n
+ 1761* git push --set-upstream origin main\n
+ 1762* rm -rf .git\n
+ 1763* git init 
+ 1764* git remote add origin https://github.com/tjtmddnjswkd/on-boarding.git\n
+ 1765* git checkout -b main\n
+ 1766* git status
+ 1767* pre-commit install\n
+ 1768* pre-commit run --all-files\n
+ 1769* git add ./
+ 1770* git commit -m "feat: prototype boarding service"
+ 1771* git push
+ 1772* git push --set-upstream origin main\n
+ 1773* git status
+ 1774* git push origin main\n
+ 1775* git push
+ 1776* git branch
+ 1777* git log
+ 1778* git status
+ 1779* git commit -m "feat: prototype boarding service"
+ 1780* git status
+ 1781* cat .git/hooks/pre-commit
+ 1782* cat .git/hooks/pre-commit.sample
+ 1783* cat .git/hooks/pre-commit
+ 1784* mv .git/hooks/pre-commit .git/hooks/pre-commit.sample
+ 1785* git commit -m "feat: prototype boarding service"
+ 1786* git push
+ 1787* git push --set-upstream origin main\n
+ 1788* cd ..
+ 1789* ls
+ 1790* git clone https://github.com/tjtmddnjswkd/on-boarding.git
+ 1791* cd on-boarding
+ 1792* git status
+ 1793* git add ./
+ 1794* git commit -m "feat: prototype boarding service"
+ 1795* git push
+ 1796* pre-commit install\n\n
+ 1797* pre-commit run --all-files\n
+ 1798* pre-commit install\n\n
+ 1799* pre-commit run --all-files\n
+ 1800* uvicorn main:app --reload
+ 1801* npm start
+ 1802* cd frontend
+ 1803* npm start
+ 1804* uvicorn main:app --reload
+ 1805* npm start
+ 1806* uvicorn main:app --reload
+ 1807* npm start
+ 1808* git status
+ 1809* git add ./
+ 1810* git commit -m "feat: link all function naturally and decorate simply"
+ 1811* git restore ../.pre-commit-config.yaml
+ 1812* git commit -m "feat: link all function naturally and decorate simply"
+ 1813* git push
+ 1814* git status
+ 1815* git add ../backend/
+ 1816* git diff
+ 1817* cd ..
+ 1818* ls
+ 1819* git diff backend/crud.py
+ 1820* exit
+ 1821* cd ..
+ 1822* ls
+ 1823* git status
+ 1824* git restore backend
+ 1825* git status
+ 1826* git restore --staged backend/
+ 1827* git status
+ 1828* git diff backend/crud.py
+ 1829* git diff backend/main.py
+ 1830* git diff backend/models.py
+ 1831* git add backend/
+ 1832* git commit -m "feat: link all functions naturally"
+ 1833* git status
+ 1834* git restore --staged backend/
+ 1835* git add backend/
+ 1836* git commit -m "feat: link all functions naturally"
+ 1837* git restore --staged backend/
+ 1838* git status
+ 1839* pre-commit install\n
+ 1840* git add .pre-commit-config.yaml
+ 1841* git status
+ 1842* git commit -m "fix: remove flake"
+ 1843* git push
+ 1844* git add backend/
+ 1845* git commit -m "feat: link all functions naturally"
+ 1846* git push
+ 1847  history
+ 1848  history >> history.txt
+ 1849  ls
+ 1850  mv history.txt /Users/seoseung-won/Desktop/workspace/on-boarding/
+ 1851* git status
+ 1852* uvicorn main:app --reload --host 0.0.0.0 --port 8000
+ 1853* ls
+ 1854* cd backend
+ 1855* uvicorn main:app --reload --host 0.0.0.0 --port 8000
+ 1856* cd ..
+ 1857* cd frontend
+ 1858  source ~/.zshrc
+ 1859  ls
+ 1860  sudo pfctl -ef /etc/pf.conf
+ 1861  echo "rdr pass on en0 inet proto tcp from any to any port 8000 -> 127.0.0.1 port 8000" | sudo pfctl -ef -
+ 1862  cat /etc/pf.conf
+ 1863  echo "rdr pass on en0 inet proto tcp from any to any port 8000 -> 127.0.0.1 port 8000" | sudo pfctl -ef -
+ 1864  sudo pfctl -sr
+ 1865  sudo cp /etc/pf.conf /etc/pf.conf.bak
+ 1866  sudo nano /etc/pf.conf
+ 1867  vim /etc/pf.conf
+ 1868  sudo nano /etc/pf.conf
+ 1869  cat /etc/pf.conf
+ 1870  sudo pfctl -f /etc/pf.conf
+ 1871  sudo nano /etc/pf.conf
+ 1872  sudo pfctl -f /etc/pf.conf
+ 1873  sudo pfctl -e
+ 1874  ipconfig
+ 1875  mv /etc/pf.conf.bak /etc/pf.conf
+ 1876  sudo pfctl -f /etc/pf.conf
+ 1877  brew install ngrok/ngrok/ngrok
+ 1878* npm start
+ 1879  ngrok http 3000
+ 1880  ngrok http --help
+ 1881  ngrok config add-authtoken 2hmIvLcFxmI6Wjswgoosb9QP2Ko_4KFeBrXTANsd4rFaWscrK
+ 1882  ngrok http 3000
+ 1883* ls
+ 1884* cd on-boarding
+ 1885* ls
+ 1886* git
+ 1887* git status
+ 1888* git add frontend/
+ 1889* git commit -m "chore: change language from eng to kor"
+ 1890* git status
+ 1891* git add frontend/
+ 1892* git commit -m "feat: add notion of fact username already exists"
+ 1893* git status
+ 1894* git add frontend/
+ 1895* git commit -m "feat: add notion for validating password"
+ 1896* uvicorn main:app --reload
+ 1897* ngrok http 8000
+ 1898* git status
+ 1899* git diff backend/main.py
+ 1900* git add backend/test.db
+ 1901* git commit -m "chore: update db"
+ 1902* git push
+ 1903* cd ..
+ 1904* source board/bin/activate
+ 1905* pip list
+ 1906* pip list > ./on-boarding/requirments.txt
+ 1907* cd on-boarding
+ 1908* ls
+ 1909* git
+ 1910* git status
+ 1911* git add requirments.txt
+ 1912* git commit -m "feat: add requirments"
+ 1913* git add history.txt
+ 1914* git commit -m "chore: add terminal history at 24/6/11 "
+ 1915* git push
+ 1916  npm install -g localtunnel
+ 1917  lt --port 3000
+ 1918  lt --port 3000 --local-host 192.168.219.100
+ 1919* uvicorn main:app --reload --host 0.0.0.0 --port 8000
+ 1920  ngrok http 3000
+ 1921* ngrok http 8000
+ 1922* uvicorn main:app --reload --host 0.0.0.0 --port 3000
+ 1923  lt --port 3000
+ 1924* curl ipv4.icanhazip.com
+ 1925* lt --port 8000
+ 1926* npm start
+ 1927  ngrok http 3000
