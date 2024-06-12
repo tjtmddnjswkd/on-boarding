@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+// 필요하다면 추가로 CSS 파일을 임포트합니다.
+// import './index.css'; 또는 import './App.css';
 
 function RegisterForm() {
   const [username, setUsername] = useState('');
@@ -11,6 +13,14 @@ function RegisterForm() {
   const handleSubmit = (e) => {
     e.preventDefault();
     setError(null); // 에러 메시지 초기화
+
+    // 비밀번호가 숫자인지 확인
+    const passwordRegex = /^[0-9]+$/;
+    if (!passwordRegex.test(password)) {
+      setError('비밀번호는 숫자만 가능합니다.');
+      return;
+    }
+
     axios.post('http://127.0.0.1:8000/users/', { username, password })
       .then(() => {
         navigate('/login');
