@@ -5,16 +5,16 @@ function Header({ isAuthenticated, onLogout }) {
   return (
     <header>
       <nav>
-        <Link to="/">Home</Link>
+        <Link to="/">홈</Link>
         {!isAuthenticated ? (
           <>
-            <Link to="/login">Login</Link>
-            <Link to="/register">Register</Link>
+            <Link to="/login">로그인</Link>
+            <Link to="/register">회원가입</Link>
           </>
         ) : (
           <>
             <Link to="/new">글쓰기</Link>
-            <button onClick={onLogout}>Logout</button>
+            <button onClick={onLogout}>로그아웃</button>
           </>
         )}
       </nav>

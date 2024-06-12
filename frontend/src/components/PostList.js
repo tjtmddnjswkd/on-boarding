@@ -17,7 +17,7 @@ function PostList() {
 
   return (
     <div>
-      <h2>Posts</h2>
+      <h2>게시글</h2>
       <ul>
         {posts.map(post => (
           <li key={post.id}>

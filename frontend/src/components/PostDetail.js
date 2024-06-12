@@ -62,8 +62,8 @@ function PostDetail() {
       <p>by {post.owner.username} on {new Date(post.created_at).toLocaleString()}</p>
       {post.owner.id === userId && (
         <>
-          <Link to={`/edit/${post.id}`}>Edit</Link>
-          <button onClick={handleDelete}>Delete</button>
+          <Link to={`/edit/${post.id}`}>수정</Link>
+          <button onClick={handleDelete}>삭제</button>
         </>
       )}
     </div>
