@@ -70,6 +70,10 @@ def get_comments_by_post(db: Session, post_id: int):
     )
 
 
+def get_comment(db: Session, comment_id: int):
+    return db.query(models.Comment).filter(models.Comment.id == comment_id).first()
+
+
 def update_comment(db: Session, comment_id: int, comment: schemas.CommentCreate):
     db_comment = (
         db.query(models.Comment).filter(models.Comment.id == comment_id).first()

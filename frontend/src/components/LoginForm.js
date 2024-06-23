@@ -15,8 +15,18 @@ function LoginForm({ onLogin }) {
     }))
       .then(response => {
         localStorage.setItem('token', response.data.access_token);
-        onLogin();
-        navigate('/');
+        // 사용자 정보를 가져와서 로컬 스토리지에 저장
+        axios.get('http://127.0.0.1:8000/users/me', {
+          headers: {
+            Authorization: `Bearer ${response.data.access_token}`
+          }
+        }).then(userResponse => {
+          localStorage.setItem('userId', userResponse.data.id);
+          onLogin();
+          navigate('/');
+        }).catch(userError => {
+          console.error("There was an error fetching the user!", userError);
+        });
       })
       .catch(error => {
         console.error("There was an error logging in!", error);

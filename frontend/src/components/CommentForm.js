@@ -10,7 +10,7 @@ function CommentForm({ postId, parentId, onCommentAdded }) {
     axios.post('http://127.0.0.1:8000/comments/', {
       content,
       post_id: postId,
-      parent_id: parentId
+      parent_id: parentId || null
     }, {
       headers: {
         Authorization: `Bearer ${token}`
