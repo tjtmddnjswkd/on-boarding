@@ -88,6 +88,10 @@ def delete_comment(db: Session, comment_id: int):
     db_comment = (
         db.query(models.Comment).filter(models.Comment.id == comment_id).first()
     )
+    if db_comment.replies and len(db_comment.replies) > 0:
+        raise HTTPException(
+            status_code=400, detail="댓글에 대댓글이 있어 삭제할 수 없습니다."
+        )
     db.delete(db_comment)
     db.commit()
     return db_comment

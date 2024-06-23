@@ -32,6 +32,11 @@ function Comment({ comment, onCommentUpdated, onCommentDeleted }) {
   };
 
   const handleDelete = () => {
+    if (comment.replies && comment.replies.length > 0) {
+      alert("댓글에 대댓글이 있어 삭제할 수 없습니다.");
+      return;
+    }
+
     axios.delete(`http://127.0.0.1:8000/comments/${comment.id}`, {
       headers: {
         Authorization: `Bearer ${token}`
@@ -68,7 +73,7 @@ function Comment({ comment, onCommentUpdated, onCommentDeleted }) {
       {showReplyForm && (
         <CommentForm postId={comment.post_id} parentId={comment.id} onCommentAdded={handleReplyAdded} />
       )}
-      {comment.replies && (
+      {comment.replies && comment.replies.length > 0 && (
         <ul>
           {comment.replies.map(reply => (
             <Comment 
