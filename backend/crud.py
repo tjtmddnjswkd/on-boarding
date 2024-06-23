@@ -52,3 +52,38 @@ def delete_post(db: Session, post_id: int):
     db.delete(db_post)
     db.commit()
     return db_post
+
+
+def create_comment(db: Session, comment: schemas.CommentCreate, user_id: int):
+    db_comment = models.Comment(**comment.dict(), owner_id=user_id)
+    db.add(db_comment)
+    db.commit()
+    db.refresh(db_comment)
+    return db_comment
+
+
+def get_comments_by_post(db: Session, post_id: int):
+    return (
+        db.query(models.Comment)
+        .filter(models.Comment.post_id == post_id, models.Comment.parent_id == None)
+        .all()
+    )
+
+
+def update_comment(db: Session, comment_id: int, comment: schemas.CommentCreate):
+    db_comment = (
+        db.query(models.Comment).filter(models.Comment.id == comment_id).first()
+    )
+    db_comment.content = comment.content
+    db.commit()
+    db.refresh(db_comment)
+    return db_comment
+
+
+def delete_comment(db: Session, comment_id: int):
+    db_comment = (
+        db.query(models.Comment).filter(models.Comment.id == comment_id).first()
+    )
+    db.delete(db_comment)
+    db.commit()
+    return db_comment

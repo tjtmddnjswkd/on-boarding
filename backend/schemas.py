@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from typing import List, Optional, ForwardRef
 from datetime import datetime
 
 
@@ -34,6 +35,34 @@ class Post(PostBase):
 
     class Config:
         orm_mode = True
+
+
+class CommentBase(BaseModel):
+    content: str
+
+
+class CommentCreate(CommentBase):
+    post_id: int
+    parent_id: Optional[int] = None
+
+
+Comment = ForwardRef("Comment")
+
+
+class Comment(CommentBase):
+    id: int
+    owner_id: int
+    post_id: int
+    created_at: datetime
+    owner: User
+    replies: List[Comment] = []
+
+    class Config:
+        orm_mode = True
+
+
+# Forward reference 해결
+Comment.update_forward_refs()
 
 
 class Token(BaseModel):

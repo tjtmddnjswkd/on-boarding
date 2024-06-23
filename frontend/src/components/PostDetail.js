@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import CommentList from './CommentList';
 
 function PostDetail() {
   const { id } = useParams();
@@ -62,10 +63,11 @@ function PostDetail() {
       <p>by {post.owner.username} on {new Date(post.created_at).toLocaleString()}</p>
       {post.owner.id === userId && (
         <>
-          <Link to={`/edit/${post.id}`}>수정</Link>
-          <button onClick={handleDelete}>삭제</button>
+          <Link to={`/edit/${post.id}`}>Edit</Link>
+          <button onClick={handleDelete}>Delete</button>
         </>
       )}
+      <CommentList postId={post.id} />
     </div>
   );
 }

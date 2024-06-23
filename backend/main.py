@@ -24,7 +24,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # React 앱이 실행될 주소
+    allow_origins=["*"],  # React 앱이 실행될 주소
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -66,10 +66,11 @@ async def get_current_user(
         username: str = payload.get("sub")
         if username is None:
             raise credentials_exception
-        user = crud.get_user_by_username(db, username)
-        if user is None:
-            raise credentials_exception
+        token_data = schemas.TokenData(username=username)
     except JWTError:
+        raise credentials_exception
+    user = crud.get_user_by_username(db, username=token_data.username)
+    if user is None:
         raise credentials_exception
     return user
 
@@ -155,3 +156,46 @@ def delete_post(
             status_code=400, detail="Not authorized to delete this post"
         )
     return crud.delete_post(db=db, post_id=post_id)
+
+
+@app.post("/comments/", response_model=schemas.Comment)
+def create_comment(
+    comment: schemas.CommentCreate,
+    db: Session = Depends(get_db),
+    current_user: schemas.User = Depends(get_current_user),
+):
+    return crud.create_comment(db=db, comment=comment, user_id=current_user.id)
+
+
+@app.get("/posts/{post_id}/comments/", response_model=List[schemas.Comment])
+def read_comments(post_id: int, db: Session = Depends(get_db)):
+    return crud.get_comments_by_post(db, post_id=post_id)
+
+
+@app.put("/comments/{comment_id}", response_model=schemas.Comment)
+def update_comment(
+    comment_id: int,
+    comment: schemas.CommentCreate,
+    db: Session = Depends(get_db),
+    current_user: schemas.User = Depends(get_current_user),
+):
+    db_comment = crud.get_comment(db, comment_id=comment_id)
+    if db_comment is None or db_comment.owner_id != current_user.id:
+        raise HTTPException(
+            status_code=400, detail="Not authorized to update this comment"
+        )
+    return crud.update_comment(db=db, comment_id=comment_id, comment=comment)
+
+
+@app.delete("/comments/{comment_id}", response_model=schemas.Comment)
+def delete_comment(
+    comment_id: int,
+    db: Session = Depends(get_db),
+    current_user: schemas.User = Depends(get_current_user),
+):
+    db_comment = crud.get_comment(db, comment_id=comment_id)
+    if db_comment is None or db_comment.owner_id != current_user.id:
+        raise HTTPException(
+            status_code=400, detail="Not authorized to delete this comment"
+        )
+    return crud.delete_comment(db=db, comment_id=comment_id)

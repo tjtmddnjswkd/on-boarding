@@ -22,3 +22,24 @@ class Post(Base):
     owner_id = Column(Integer, ForeignKey("users.id"))
 
     owner = relationship("User")
+
+
+class Comment(Base):
+    __tablename__ = "comments"
+
+    id = Column(Integer, primary_key=True, index=True)
+    content = Column(String, index=True)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    owner_id = Column(Integer, ForeignKey("users.id"))
+    post_id = Column(Integer, ForeignKey("posts.id"))
+    parent_id = Column(Integer, ForeignKey("comments.id"), nullable=True)
+
+    owner = relationship("User")
+    post = relationship("Post", back_populates="comments")
+    parent = relationship("Comment", remote_side=[id], back_populates="replies")
+    replies = relationship(
+        "Comment", back_populates="parent", cascade="all, delete-orphan"
+    )
+
+
+Post.comments = relationship("Comment", order_by=Comment.id, back_populates="post")
