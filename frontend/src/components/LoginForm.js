@@ -36,16 +36,16 @@ function LoginForm({ onLogin }) {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label>Username</label>
+        <label>아이디</label>
         <input type="text" value={username} onChange={e => setUsername(e.target.value)} />
       </div>
       <div>
-        <label>Password</label>
+        <label>비밀번호</label>
         <input type="password" value={password} onChange={e => setPassword(e.target.value)} />
       </div>
-      <button type="submit">Login</button>
+      <button type="submit">로그인</button>
       <div>
-        <p>Don't have an account? <Link to="/register">Register</Link></p>
+        <p>회원이 아니신가요? <Link to="/register">회원가입</Link></p>
       </div>
     </form>
   );

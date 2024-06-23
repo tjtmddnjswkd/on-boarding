@@ -30,7 +30,7 @@ function CommentForm({ postId, parentId, onCommentAdded }) {
       <div>
         <textarea value={content} onChange={e => setContent(e.target.value)} />
       </div>
-      <button type="submit">Submit</button>
+      <button type="submit">작성</button>
     </form>
   );
 }

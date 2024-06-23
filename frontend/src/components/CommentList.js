@@ -30,7 +30,7 @@ function CommentList({ postId }) {
 
   return (
     <div>
-      <h3>Comments</h3>
+      <h3>댓글</h3>
       <CommentForm postId={postId} parentId={null} onCommentAdded={handleCommentAdded} />
       <ul>
         {comments.map(comment => (

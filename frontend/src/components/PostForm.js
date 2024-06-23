@@ -68,14 +68,14 @@ function PostForm() {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label>Title</label>
+        <label>제목</label>
         <input type="text" value={title} onChange={e => setTitle(e.target.value)} />
       </div>
       <div>
-        <label>Content</label>
+        <label>내용</label>
         <textarea value={content} onChange={e => setContent(e.target.value)} />
       </div>
-      <button type="submit">Save</button>
+      <button type="submit">저장</button>
     </form>
   );
 }

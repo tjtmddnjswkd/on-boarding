@@ -3,6 +3,7 @@ from typing import List, Optional, ForwardRef
 from datetime import datetime
 
 
+# User Schema
 class UserBase(BaseModel):
     username: str
 
@@ -18,6 +19,7 @@ class User(UserBase):
         orm_mode = True
 
 
+# Post Schema
 class PostBase(BaseModel):
     title: str
     content: str
@@ -37,6 +39,7 @@ class Post(PostBase):
         orm_mode = True
 
 
+# Comment Schema
 class CommentBase(BaseModel):
     content: str
 
@@ -53,6 +56,7 @@ class Comment(CommentBase):
     id: int
     owner_id: int
     post_id: int
+    parent_id: Optional[int]
     created_at: datetime
     owner: User
     replies: List[Comment] = []
@@ -65,6 +69,7 @@ class Comment(CommentBase):
 Comment.update_forward_refs()
 
 
+# Token Schema
 class Token(BaseModel):
     access_token: str
     token_type: str

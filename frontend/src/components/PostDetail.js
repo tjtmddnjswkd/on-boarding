@@ -54,7 +54,7 @@ function PostDetail() {
       });
   };
 
-  if (!post) return <div>Loading...</div>;
+  if (!post) return <div>로딩중...</div>;
 
   return (
     <div>
@@ -63,8 +63,8 @@ function PostDetail() {
       <p>by {post.owner.username} on {new Date(post.created_at).toLocaleString()}</p>
       {post.owner.id === userId && (
         <>
-          <Link to={`/edit/${post.id}`}>Edit</Link>
-          <button onClick={handleDelete}>Delete</button>
+          <Link to={`/edit/${post.id}`} className="button-link">수정</Link>
+          <button onClick={handleDelete}>삭제</button>
         </>
       )}
       <CommentList postId={post.id} />

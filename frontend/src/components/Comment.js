@@ -55,7 +55,7 @@ function Comment({ comment, onCommentUpdated, onCommentDeleted }) {
       {isEditing ? (
         <>
           <textarea value={content} onChange={e => setContent(e.target.value)} />
-          <button onClick={handleEdit}>Save</button>
+          <button onClick={handleEdit}>저장</button>
         </>
       ) : (
         <>
@@ -64,11 +64,11 @@ function Comment({ comment, onCommentUpdated, onCommentDeleted }) {
         </>
       )}
       {/* 댓글(parent_id가 null인 경우)에만 Reply 버튼을 표시 */}
-      {comment.parent_id === null && <button onClick={() => setShowReplyForm(!showReplyForm)}>Reply</button>}
+      {comment.parent_id === null && <button onClick={() => setShowReplyForm(!showReplyForm)}>댓글</button>}
       {userId === comment.owner.id && (
         <>
-          <button onClick={() => setIsEditing(!isEditing)}>Edit</button>
-          <button onClick={handleDelete}>Delete</button>
+          <button onClick={() => setIsEditing(!isEditing)}>수정</button>
+          <button onClick={handleDelete}>삭제</button>
         </>
       )}
       {showReplyForm && (

@@ -126,3 +126,23 @@ button:hover {
   color: red;
   margin-top: 10px;
 }
+
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 0;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button-link:hover {
+  background-color: #4CAF50;
+}

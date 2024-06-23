@@ -37,15 +37,15 @@ function RegisterForm() {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label>Username</label>
+        <label>가입할 아이디</label>
         <input type="text" value={username} onChange={e => setUsername(e.target.value)} />
       </div>
       <div>
-        <label>Password</label>
+        <label>비밀번호</label>
         <input type="password" value={password} onChange={e => setPassword(e.target.value)} />
       </div>
       {error && <p className="error">{error}</p>} {/* 에러 메시지 표시 */}
-      <button type="submit">Register</button>
+      <button type="submit">가입하기</button>
     </form>
   );
 }
