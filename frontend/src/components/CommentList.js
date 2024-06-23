@@ -5,6 +5,7 @@ import Comment from './Comment';
 
 function CommentList({ postId }) {
   const [comments, setComments] = useState([]);
+  const token = localStorage.getItem('token');
 
   useEffect(() => {
     axios.get(`http://127.0.0.1:8000/posts/${postId}/comments/`)
@@ -31,7 +32,7 @@ function CommentList({ postId }) {
   return (
     <div>
       <h3>댓글</h3>
-      <CommentForm postId={postId} parentId={null} onCommentAdded={handleCommentAdded} />
+      {token && <CommentForm postId={postId} parentId={null} onCommentAdded={handleCommentAdded} />}
       <ul>
         {comments.map(comment => (
           <Comment 

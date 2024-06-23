@@ -63,9 +63,8 @@ function Comment({ comment, onCommentUpdated, onCommentDeleted }) {
           <p>by {comment.owner.username} on {new Date(comment.created_at).toLocaleString()}</p>
         </>
       )}
-      {/* 댓글(parent_id가 null인 경우)에만 Reply 버튼을 표시 */}
-      {comment.parent_id === null && <button onClick={() => setShowReplyForm(!showReplyForm)}>댓글</button>}
-      {userId === comment.owner.id && (
+      {token && comment.parent_id === null && <button onClick={() => setShowReplyForm(!showReplyForm)}>댓글</button>}
+      {token && userId === comment.owner.id && (
         <>
           <button onClick={() => setIsEditing(!isEditing)}>수정</button>
           <button onClick={handleDelete}>삭제</button>
