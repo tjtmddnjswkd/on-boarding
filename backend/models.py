@@ -22,6 +22,9 @@ class Post(Base):
     owner_id = Column(Integer, ForeignKey("users.id"))
 
     owner = relationship("User")
+    comments = relationship(
+        "Comment", back_populates="post", cascade="all, delete-orphan"
+    )
 
 
 class Comment(Base):
@@ -40,6 +43,3 @@ class Comment(Base):
     replies = relationship(
         "Comment", back_populates="parent", cascade="all, delete-orphan"
     )
-
-
-Post.comments = relationship("Comment", order_by=Comment.id, back_populates="post")
