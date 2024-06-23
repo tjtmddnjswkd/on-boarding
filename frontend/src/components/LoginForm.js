@@ -5,10 +5,12 @@ import { useNavigate, Link } from 'react-router-dom';
 function LoginForm({ onLogin }) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
   const navigate = useNavigate();
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    setError('');  // 기존 오류 메시지 초기화
     axios.post('http://127.0.0.1:8000/token', new URLSearchParams({
       username: username,
       password: password
@@ -25,11 +27,11 @@ function LoginForm({ onLogin }) {
           onLogin();
           navigate('/');
         }).catch(userError => {
-          console.error("There was an error fetching the user!", userError);
+          console.error("사용자를 가져오는 중에 오류가 발생했습니다.", userError);
         });
       })
       .catch(error => {
-        console.error("There was an error logging in!", error);
+        setError('아이디 또는 비밀번호가 틀렸습니다.');
       });
   };
 
@@ -44,6 +46,7 @@ function LoginForm({ onLogin }) {
         <input type="password" value={password} onChange={e => setPassword(e.target.value)} />
       </div>
       <button type="submit">로그인</button>
+      {error && <div style={{ color: 'red' }}>{error}</div>}
       <div>
         <p>회원이 아니신가요? <Link to="/register">회원가입</Link></p>
       </div>
